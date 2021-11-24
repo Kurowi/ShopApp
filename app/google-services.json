@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84806304164",
+    "project_id": "finals26011",
+    "storage_bucket": "finals26011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84806304164:android:782a825c3215c327960131",
+        "android_client_info": {
+          "package_name": "com.Finals26011.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84806304164-cc9ol9g5urs95ur6ons84oq56n313aqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9L8VefEhuIw-pm2eU7oulle3GIwDKj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84806304164-cc9ol9g5urs95ur6ons84oq56n313aqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
