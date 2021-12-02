@@ -26,8 +26,8 @@
         android:hint="Phone Number"
         android:inputType="number"
         android:padding="20dp"
-        android:textColor="@color/white"
-        android:textColorHint="@color/white"
+        android:textColor="@color/Pink4"
+        android:textColorHint="@color/Pink4"
         android:textSize="19sp" />
 
     <EditText
@@ -42,8 +42,8 @@
         android:hint="Password"
         android:inputType="textPassword"
         android:padding="20dp"
-        android:textColor="@color/white"
-        android:textColorHint="@color/white"
+        android:textColor="@color/Pink4"
+        android:textColorHint="@color/Pink4"
         android:textSize="19sp" />
     <LinearLayout
         android:id="@+id/linear_layout_1"
@@ -62,9 +62,9 @@
             android:layout_marginLeft="17dp"
             android:gravity="center_vertical"
             android:text="Remember me"
-            android:textColor="@color/white"
+            android:textColor="@color/Pink4"
             android:textSize="18sp"
-            app:cbd_strokeColor="@color/colorPrimaryDark" />
+            app:cbd_strokeColor="@color/Pink3" />
 
         <TextView
             android:id="@+id/forget_password_link"
@@ -72,7 +72,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="70dp"
             android:text="Forget Password?"
-            android:textColor="@color/white"
+            android:textColor="@color/Pink4"
             android:textSize="19sp" />
 
     </LinearLayout>
@@ -104,7 +104,7 @@
         android:layout_marginLeft="80dp"
         android:layout_marginEnd="23dp"
         android:text="I'm an Admin"
-        android:textColor="@color/white"
+        android:textColor="@color/Pink4"
         android:textSize="20sp"
         android:textStyle="bold" />
 
@@ -119,7 +119,7 @@
         android:layout_marginLeft="80dp"
         android:layout_marginTop="-2dp"
         android:text="I'm not an Admin"
-        android:textColor="@color/white"
+        android:textColor="@color/Pink4"
         android:textSize="20sp"
         android:textStyle="bold"
         android:visibility="invisible" />
