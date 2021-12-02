@@ -164,9 +164,7 @@ public class AdminAddNewProductActivity extends AppCompatActivity {
                         if (!task.isSuccessful())
                         {
                             throw task.getException();
-
                         }
-
                         downloadImageUrl = filePath.getDownloadUrl().toString();
                         return filePath.getDownloadUrl();
                     }
@@ -185,7 +183,6 @@ public class AdminAddNewProductActivity extends AppCompatActivity {
                 });
             }
         });
-
     }
     private void SaveProductInfoToDatabase()
     {
