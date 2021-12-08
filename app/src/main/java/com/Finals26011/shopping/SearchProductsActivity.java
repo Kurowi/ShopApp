@@ -43,12 +43,8 @@ public class SearchProductsActivity extends AppCompatActivity {
             public void onClick(View view) {
                 searchInput = inputText.getText().toString();
                 onStart();
-
-
             }
         });
-
-
     }
 
     @Override
@@ -74,7 +70,6 @@ public class SearchProductsActivity extends AppCompatActivity {
                                 startActivity(intent);
                             }
                         });
-
                     }
 
                     @NonNull
